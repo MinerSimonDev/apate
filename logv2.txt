@@ -1,3 +1,4 @@
+PS D:\Windowsordner\Desktop\apatebot> node .\index.js
 PartialReadError: Read error for undefined : undefined
     at new ExtendableError (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\utils.js:63:13)
     at new PartialReadError (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\utils.js:70:5)
@@ -14,6 +15,20 @@ PartialReadError: Read error for undefined : undefined
   buffer: undefined,
   field: 'play.toClient'
 }
+  field: 'play.toClient'
+  field: 'play.toClient'
+}
+Bot error: PartialReadError: Read error for undefined : undefined
+  field: 'play.toClient'
+}
+Bot error: PartialReadError: Read error for undefined : undefined
+  field: 'play.toClient'
+}
+  field: 'play.toClient'
+}
+  field: 'play.toClient'
+}
+}
 Bot error: PartialReadError: Read error for undefined : undefined
     at new ExtendableError (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\utils.js:63:13)
     at new PartialReadError (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\utils.js:70:5)
@@ -22,10 +37,10 @@ Bot error: PartialReadError: Read error for undefined : undefined
     at eval (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1177:13)
     at Object.entityMetadataEntry (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1184:9)
     at Object.entityMetadata (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1199:47)
-    at Object.packet_entity_metadata (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:3394:73)
+    at Object.packet_entity_metadata (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:3394:73)        
     at eval (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:4200:70)
     at packet (eval at compile (D:\Windowsordner\Desktop\apatebot\node_modules\protodef\src\compiler.js:262:12), <anonymous>:4235:9) {
-  message: 'Deserialization error for play.toClient : Read error for undefined : undefined',   
+  message: 'Deserialization error for play.toClient : Read error for undefined : undefined',
   partialReadError: true,
   buffer: undefined,
   field: 'play.toClient'
